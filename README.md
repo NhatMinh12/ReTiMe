@@ -8,7 +8,7 @@ ReTiMe is a real-time chat application that allows multiple users to easily send
 2. Send messages
 - We use Socket.IO, Express.js, and Node.js to implement a chat engine that ensures bidirectional communication between a client and a server.
 
-# #Tech used
+## Tech used
 1. [Firebase] - APIs and database
 2. [Express.js], [Socket.IO], [Node.js] - chat engine, server, and package manager
 3. [Figma], [Canva] - design the layout of the website
