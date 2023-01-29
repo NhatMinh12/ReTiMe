@@ -18,14 +18,13 @@ ReTiMe is a real-time chat application that allows multiple users to easily send
 ## Installation
 To run the project locally, please follow the below steps:
 1. Clone the project and install dependencies
-Download Node.js from https://nodejs.org/en/download/ then open the terminal
+Download Node.js from https://nodejs.org/en/download/ then open the terminal  
 `git clone https://github.com/NhatMinh12/Spartahack-8-Project.git`
 `cd Spartahack-8-Project`
 `npm install express`
 `npm install socket.io`
 `npm install firebase`
-2. Activate the server
-
+2. Activate the server  
 `node server.js`
 3. Visit the link http://localhost:3000/ and feel free to navigate!
 
