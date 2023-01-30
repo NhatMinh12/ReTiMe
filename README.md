@@ -28,7 +28,7 @@ Download Node.js from https://nodejs.org/en/download/ then open the terminal
 `node server.js`
 3. Visit the link http://localhost:3000/ and feel free to navigate!
 
-## Members
+## Contributors
 1. Minh Pham @NhatMinh12
 2. Khang Nguyen @nguyenhuykhang
 3. Tuan Hua @huaminhtuan2004
