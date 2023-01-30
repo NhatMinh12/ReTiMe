@@ -20,7 +20,7 @@ To run the project locally, please follow the below steps:
 1. Clone the project and install dependencies  
 Download Node.js from https://nodejs.org/en/download/ then open the terminal  
 `git clone https://github.com/NhatMinh12/Spartahack-8-Project.git`  
-`cd Spartahack-8-Project`  
+`cd ReTiMe`  
 `npm install express`  
 `npm install socket.io`  
 `npm install firebase`  
